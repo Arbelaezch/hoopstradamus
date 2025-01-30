@@ -1,7 +1,7 @@
 # College Basketball Game Statistics (2013-2024)
 
 ## Dataset Description
-This dataset contains detailed game-by-game statistics for NCAA Division I men's basketball games from the 2013-14 season through the 2023-24 season (excluding 2019-20). The data was sourced from [barttorvik.com](https://barttorvik.com/gamestat.php), a respected resource for college basketball analytics.
+This dataset contains detailed game-by-game statistics for NCAA Division I men's basketball games from the 2013-14 season through the 2023-24 season (excluding 2019-20). The data was sourced from [barttorvik.com](https://barttorvik.com/gamestat.php).
 
 Data uploaded to Kaggle in CSV format.
 [NCAAM Basketball Game Schedules 2014-2024](https://www.kaggle.com/datasets/arbelaezch/ncaam-basketball-game-schedules-2014-2024)
@@ -61,16 +61,3 @@ Data uploaded to Kaggle in CSV format.
 - Conference affiliations reflect the team's conference for that specific season
 - Neutral site games include both tournament and non-tournament games
 - The dataset includes regular season and postseason games
-
-## Citation
-If you use this dataset, please cite:
-- Data source: [barttorvik.com](https://barttorvik.com/gamestat.php)
-- Dataset compilation: [Your Name/Username]
-
-## Potential Applications
-- Predicting March Madness tournament outcomes
-- Analyzing team performance trends
-- Studying home court advantage
-- Conference strength comparisons
-- Team matchup analysis
-- Player development impact (through team performance metrics)
